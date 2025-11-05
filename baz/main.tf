@@ -1,2 +1,2 @@
-resource "null_resource" "baz" {
+resource "null_resource" "not-baz" {
 }
