@@ -1,2 +1,2 @@
-resource "null_resource" "not-foo" {
+resource "null_resource" "new-foo" {
 }
